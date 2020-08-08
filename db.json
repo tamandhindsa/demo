@@ -42,7 +42,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true,
-      "imageUrl": "https://picsum.photos/id/104/500/100"
+      "imageUrl": "https://picsum.photos/id/105/500/100"
     },
     {
       "id": 2,
@@ -86,7 +86,7 @@
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": false,
-      "imageUrl": "https://picsum.photos/id/104/500/100"
+      "imageUrl": "https://picsum.photos/id/107/500/100"
     },
     {
       "id": 4,
