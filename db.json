@@ -19,7 +19,8 @@
       "installments": 1,
       "currencyId": "USD",
       "currencyFormat": "$",
-      "isFreeShipping": false
+      "isFreeShipping": false,
+      "imageUrl": "https://picsum.photos/id/104/500/100"
     },
     {
       "id": 1,
@@ -40,7 +41,8 @@
       "installments": 10,
       "currencyId": "USD",
       "currencyFormat": "$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imageUrl": "https://picsum.photos/id/104/500/100"
     },
     {
       "id": 2,
@@ -61,7 +63,8 @@
       "installments": 10,
       "currencyId": "USD",
       "currencyFormat": "$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imageUrl": "https://picsum.photos/id/106/500/100"
     },
     {
       "id": 3,
@@ -82,7 +85,8 @@
       "installments": 10,
       "currencyId": "USD",
       "currencyFormat": "$",
-      "isFreeShipping": false
+      "isFreeShipping": false,
+      "imageUrl": "https://picsum.photos/id/104/500/100"
     },
     {
       "id": 4,
@@ -103,7 +107,8 @@
       "installments": 5,
       "currencyId": "USD",
       "currencyFormat": "$",
-      "isFreeShipping": false
+      "isFreeShipping": false,
+      "imageUrl": "https://picsum.photos/id/1070/500/100"
     },
     {
       "id": 5,
@@ -124,7 +129,8 @@
       "installments": 5,
       "currencyId": "USD",
       "currencyFormat": "$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imageUrl": "https://picsum.photos/id/1074/500/100"
     },
     {
       "id": 6,
@@ -149,7 +155,8 @@
       "installments": 6,
       "currencyId": "USD",
       "currencyFormat": "$",
-      "isFreeShipping": false
+      "isFreeShipping": false,
+      "imageUrl": "https://picsum.photos/id/1080/500/100"
     },
     {
       "id": 7,
@@ -174,7 +181,8 @@
       "installments": 6,
       "currencyId": "USD",
       "currencyFormat": "$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imageUrl": "https://picsum.photos/id/111/500/100"
     },
     {
       "id": 8,
@@ -195,7 +203,8 @@
       "installments": 6,
       "currencyId": "USD",
       "currencyFormat": "$",
-      "isFreeShipping": false
+      "isFreeShipping": false,
+      "imageUrl": "https://picsum.photos/id/139/500/100"
     },
     {
       "id": 9,
@@ -216,7 +225,8 @@
       "installments": 8,
       "currencyId": "USD",
       "currencyFormat": "$",
-      "isFreeShipping": false
+      "isFreeShipping": false,
+      "imageUrl": "https://picsum.photos/id/145/500/100"
     }
   ]
 }
